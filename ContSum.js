@@ -22,7 +22,6 @@ function continuousSubArrayForSumIndex(arr, sum){
         msg: "No continous array found"
     }
 }
-
 const arr =[1,2,3,5,-3,10], sum = 15;
 console.log(continuousSubArrayForSumIndex(arr, sum));
 
