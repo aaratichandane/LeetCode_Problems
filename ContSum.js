@@ -25,3 +25,5 @@ function continuousSubArrayForSumIndex(arr, sum){
 const arr =[1,2,3,5,-3,10], sum = 15;
 console.log(continuousSubArrayForSumIndex(arr, sum));
 
+
+
