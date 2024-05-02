@@ -16,7 +16,6 @@ function continuousSubArrayForSumIndex(arr, sum){
             tempSum = 0;
             continue;
         }
-      
     }
     return {
         msg: "No continous array found"
