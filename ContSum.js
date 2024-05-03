@@ -9,7 +9,8 @@ function continuousSubArrayForSumIndex(arr, sum){
             tempArr.push(i);
             i++;
         }
-        else{
+        else
+        {
             iterateCount++;
             i = iterateCount;
             tempArr = [];
