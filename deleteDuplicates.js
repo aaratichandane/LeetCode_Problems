@@ -21,4 +21,4 @@ class ListNode {
 
   const list = new ListNode(1, new ListNode(1, new ListNode(2)));
   const result = deleteDuplicates(list);
-  console.log(result);                                                                                                
+  console.log(result);                                                                                                 
