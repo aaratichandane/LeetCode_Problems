@@ -30,4 +30,4 @@ var knightDialer = function (n) {
     return dp.reduce((acc, curr) => (acc + curr) % MOD, 0);
   };
 
- console.log(knightDialer(1));                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ console.log(knightDialer(1));                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
